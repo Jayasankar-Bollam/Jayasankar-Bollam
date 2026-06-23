@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Password Manager React app<br>🌱 I’m currently learning AI<br>🤔 I’m looking for help with AI<br>💬 Ask me about Full Stack Development and AI/ML<br>📫 How to reach me:jayasankarbollam01@gmail.com</p>
+<p align="left">🔭 I’m currently working on Password Manager React app<br>🌱 I’m currently learning AI<br>🤔 I’m looking for help with AI<br>💬 Ask me about Full Stack Development and AI/ML<br>📫 How to reach me:<a jayasankarbollam01@gmail.com></p>
 
 ###
 
