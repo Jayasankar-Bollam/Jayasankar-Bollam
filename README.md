@@ -1,4 +1,10 @@
-<h1 align="left">Hey 👋 I'm Jayasankar</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!👋;This+is+Jayasankar+Bollam;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+![](https://komarev.com/ghpvc/?username=Jayasankar-Bollam&color=brightgreen&base=600)
 
 ###
 
@@ -10,9 +16,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Gen AI+Fullstack web development<br>🌱 I’m currently learning AI<br>🤔 I’m looking for help with AI<br>💬 Ask me about Full Stack Development and AI/ML<br>📫 How to reach me:<a href="mailto:jayasankarbollam01@gmail.com">jayasankarbollam01@gmail.com</a></p>
+<p align="left">🔭 I’m currently working on Gen AI+Fullstack web development<br>🌱 I’m currently learning AI<br>🤔 I’m looking for help with AI<br>💬 Ask me about Full Stack Development <br>📫 How to reach me:<a href="mailto:jayasankarbollam01@gmail.com">jayasankarbollam01@gmail.com</a></p>
 
 ###
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@jayasankar07)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j_s_b_33_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayasankarbollam/)[![Reddit](https://img.shields.io/badge/Reddit-12100E?logo=reddit&logoColor=white)](https://www.reddit.com/user/Jayasankar07/)
 
 <h2 align="left">Skills</h2>
 
