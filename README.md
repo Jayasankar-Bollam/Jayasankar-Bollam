@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Full Stack Developer and AI/ML Enthusiast</p>
+<p align="left">I'm Full Stack Developer and AI Enthusiast</p>
 
 ###
 
